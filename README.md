@@ -5,7 +5,8 @@ ATTENTION: This mod only works with the Eternal Edition port.
 
 Its purpose is to improve the quality of all images and videos in the game.
 
-To do: Finish improving Yuka, Okuhiko, Saki, Kurumi and Izumi's character sprites. Recreate or remaster cutscenes and translate them.
+To do: Finish improving Yuka, Okuhiko, Saki, Kurumi and Izumi's character sprites. 
+Translate the endings from japanese and remaster or recreate the cutscenes.
 
 To apply the HD MOD: Unzip the "n7eHD.rar" files, open "n7e.love" with winrar or a similar program and replace the files.
 
