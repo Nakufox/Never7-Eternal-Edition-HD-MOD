@@ -19,7 +19,7 @@ Tiene como finalidad mejorar la calidad de todas las imágenes y videos del jueg
 
 Por hacer:
 Terminar de mejorar los sprites de los personajes de Yuka, Okuhiko, Saki, Kurumi e Izumi
-Recrear o remasterizar las cinemáticas y traducirlas.
+Recrear o remasterizar las cinemáticas y traducir los créditos.
 
 Para aplicar el MOD HD:
 Descomprimir los archivos de "n7eHD.rar", abrir "n7e.love" con winrar o un programa similar y sustituir los archivos.
